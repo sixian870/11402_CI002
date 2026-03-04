@@ -26,5 +26,5 @@
 - **姓名**：李思嫻
 - **學號**：1131530
 - **系級**：元智大學 資訊工程學系 二年級
-- **GitHub Profile**：[點此造訪](https://github.com/sixian870)
-- **個人網站 (GitHub Pages)**：[點此造訪](https://sixian870.github.io/)
+- **GitHub Profile**：[https://github.com/sixian870](https://github.com/sixian870)
+- **GitHub Pages**：[https://sixian870.github.io/](https://sixian870.github.io/)
