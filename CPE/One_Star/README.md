@@ -4,7 +4,7 @@
 
 | No. | Category | Problem | UVa |
 |---:|---|---|---|
-| 1 | Basic Problems | Vito's family | [UVa10041](/01_UVa10041/UVa10041.md) |
+| 1 | Basic Problems | Vito's family | [UVa10041](./01_UVa10041/UVa10041.md) |
 | 2 | Basic Problems | Hashmat the brave warrior | [UVa10055](https://onlinejudge.org/external/100/10055.pdf) |
 | 3 | Basic Problems | Primary Arithmetic | [UVa10035](https://onlinejudge.org/external/100/10035.pdf) |
 | 4 | Basic Problems | The 3n + 1 problem | [UVa100](https://onlinejudge.org/external/1/100.pdf) |
