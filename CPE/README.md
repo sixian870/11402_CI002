@@ -22,34 +22,34 @@
 | 16 | Mathematical Computation | What is the Probability!! | [UVa10056](./One_Star/16_UVa10056/UVa10056.md) |
 | 17 | Mathematical Computation | The Hotel with Infinite Rooms | [UVa10170](./One_Star/17_UVa10170/UVa10170.md) |
 | 18 | Mathematical Computation | 498-bis | [UVa10268](./One_Star/18_UVa10268/UVa10268.md) |
-| 19 | Mathematical Computation | Odd Sum | [UVa10783](https://onlinejudge.org/external/107/10783.pdf) |
-| 20 | Mathematical Computation | Beat the Spread! | [UVa10812](https://onlinejudge.org/external/108/10812.pdf) |
-| 21 | Mathematical Computation | Symmetric Matrix | [UVa11349](https://onlinejudge.org/external/113/11349.pdf) |
-| 22 | Mathematical Computation | Square Numbers | [UVa11461](https://onlinejudge.org/external/114/11461.pdf) |
-| 23 | Mathematical Computation | B2-Sequence | [UVa11063](https://onlinejudge.org/external/110/11063.pdf) |
-| 24 | Mathematical Computation | Back to High School Physics | [UVa10071](https://onlinejudge.org/external/100/10071.pdf) |
-| 25 | Base Conversion | An Easy Problem! | [UVa10093](https://onlinejudge.org/external/100/10093.pdf) |
-| 26 | Base Conversion | Fibonaccimal Base | [UVa948](https://onlinejudge.org/external/9/948.pdf) |
-| 27 | Base Conversion | Funny Encryption Method | [UVa10019](https://onlinejudge.org/external/100/10019.pdf) |
-| 28 | Base Conversion | Parity | [UVa10931](https://onlinejudge.org/external/109/10931.pdf) |
-| 29 | Base Conversion | Cheapest Base | [UVa11005](https://onlinejudge.org/external/110/11005.pdf) |
-| 30 | Primes, Factors, and Multiples | Hartals | [UVa10050](https://onlinejudge.org/external/100/10050.pdf) |
-| 31 | Primes, Factors, and Multiples | All You Need Is Love! | [UVa10193](https://onlinejudge.org/external/101/10193.pdf) |
-| 32 | Primes, Factors, and Multiples | Divide, But Not Quite Conquer! | [UVa10190](https://onlinejudge.org/external/101/10190.pdf) |
-| 33 | Primes, Factors, and Multiples | Simply Emirp | [UVa10235](https://onlinejudge.org/external/102/10235.pdf) |
-| 34 | Primes, Factors, and Multiples | 2 the 9s | [UVa10922](https://onlinejudge.org/external/109/10922.pdf) |
-| 35 | Primes, Factors, and Multiples | GCD | [UVa11417](https://onlinejudge.org/external/114/11417.pdf) |
-| 36 | Geometry and Coordinates | Largest Square | [UVa10908](https://onlinejudge.org/external/109/10908.pdf) |
-| 37 | Geometry and Coordinates | Satellites | [UVa10221](https://onlinejudge.org/external/102/10221.pdf) |
-| 38 | Geometry and Coordinates | Can You Solve It? | [UVa10642](https://onlinejudge.org/external/106/10642.pdf) |
-| 39 | Geometry and Coordinates | Fourth Point!! | [UVa10242](https://onlinejudge.org/external/102/10242.pdf) |
-| 40 | Sorting and Median | A mid-summer night’s dream | [UVa10057](https://onlinejudge.org/external/100/10057.pdf) |
-| 41 | Sorting and Median | Tell me the frequencies! | [UVa10062](https://onlinejudge.org/external/100/10062.pdf) |
-| 42 | Sorting and Median | Train Swapping | [UVa299](https://onlinejudge.org/external/2/299.pdf) |
-| 43 | Sorting and Median | Hardwood Species | [UVa10226](https://onlinejudge.org/external/102/10226.pdf) |
-| 44 | Simulation | Minesweeper | [UVa10189](https://onlinejudge.org/external/101/10189.pdf) |
-| 45 | Simulation | Die Game | [UVa10409](https://onlinejudge.org/external/104/10409.pdf) |
-| 46 | Simulation | Eb Alto Saxophone Player | [UVa10415](https://onlinejudge.org/external/104/10415.pdf) |
-| 47 | Simulation | Mutant Flatworld Explorers | [UVa118](https://onlinejudge.org/external/1/118.pdf) |
-| 48 | Simulation | Cola | [UVa11150](https://onlinejudge.org/external/111/11150.pdf) |
-| 49 | Other | Sort! Sort!! and Sort!!! | [UVa11321](https://onlinejudge.org/external/113/11321.pdf) |
+| 19 | Mathematical Computation | Odd Sum | [UVa10783](./One_Star/19_UVa10783/UVa10783.md) |
+| 20 | Mathematical Computation | Beat the Spread! | [UVa10812](./One_Star/20_UVa10812/UVa10812.md) |
+| 21 | Mathematical Computation | Symmetric Matrix | [UVa11349](./One_Star/21_UVa11349/UVa11349.md) |
+| 22 | Mathematical Computation | Square Numbers | [UVa11461](./One_Star/22_UVa11461/UVa11461.md) |
+| 23 | Mathematical Computation | B2-Sequence | [UVa11063](./One_Star/23_UVa11063/UVa11063.md) |
+| 24 | Mathematical Computation | Back to High School Physics | [UVa10071](./One_Star/24_UVa10071/UVa10071.md) |
+| 25 | Base Conversion | An Easy Problem! | [UVa10093](./One_Star/25_UVa10093/UVa10093.md) |
+| 26 | Base Conversion | Fibonaccimal Base | [UVa948](./One_Star/26_UVa948/UVa948.md) |
+| 27 | Base Conversion | Funny Encryption Method | [UVa10019](./One_Star/27_UVa10019/UVa10019.md) |
+| 28 | Base Conversion | Parity | [UVa10931](./One_Star/28_UVa10931/UVa10931.md) |
+| 29 | Base Conversion | Cheapest Base | [UVa11005](./One_Star/29_UVa11005/UVa11005.md) |
+| 30 | Primes, Factors, and Multiples | Hartals | [UVa10050](./One_Star/30_UVa10050/UVa10050.md) |
+| 31 | Primes, Factors, and Multiples | All You Need Is Love! | [UVa10193](./One_Star/31_UVa10193/UVa10193.md) |
+| 32 | Primes, Factors, and Multiples | Divide, But Not Quite Conquer! | [UVa10190](./One_Star/32_UVa10190/UVa10190.md) |
+| 33 | Primes, Factors, and Multiples | Simply Emirp | [UVa10235](./One_Star/33_UVa10235/UVa10235.md) |
+| 34 | Primes, Factors, and Multiples | 2 the 9s | [UVa10922](./One_Star/34_UVa10922/UVa10922.md) |
+| 35 | Primes, Factors, and Multiples | GCD | [UVa11417](./One_Star/35_UVa11417/UVa11417.md) |
+| 36 | Geometry and Coordinates | Largest Square | [UVa10908](./One_Star/36_UVa10908/UVa10908.md) |
+| 37 | Geometry and Coordinates | Satellites | [UVa10221](./One_Star/37_UVa10221/UVa10221.md) |
+| 38 | Geometry and Coordinates | Can You Solve It? | [UVa10642](./One_Star/38_UVa10642/UVa10642.md) |
+| 39 | Geometry and Coordinates | Fourth Point!! | [UVa10242](./One_Star/39_UVa10242/UVa10242.md) |
+| 40 | Sorting and Median | A mid-summer night’s dream | [UVa10057](./One_Star/40_UVa10057/UVa10057.md) |
+| 41 | Sorting and Median | Tell me the frequencies! | [UVa10062](./One_Star/41_UVa10062/UVa10062.md) |
+| 42 | Sorting and Median | Train Swapping | [UVa299](./One_Star/42_UVa229/UVa229.md) |
+| 43 | Sorting and Median | Hardwood Species | [UVa10226](./One_Star/43_UVa10226/UVa10226.md) |
+| 44 | Simulation | Minesweeper | [UVa10189](./One_Star/44_UVa10189/UVa10189.md) |
+| 45 | Simulation | Die Game | [UVa10409](./One_Star/45_UVa10409/UVa10409.md) |
+| 46 | Simulation | Eb Alto Saxophone Player | [UVa10415](./One_Star/46_UVa10415/UVa10415.md) |
+| 47 | Simulation | Mutant Flatworld Explorers | [UVa118](./One_Star/47_UVa118/UVa118.md) |
+| 48 | Simulation | Cola | [UVa11150](./One_Star/48_UVa11150/UVa11150.md) |
+| 49 | Other | Sort! Sort!! and Sort!!! | [UVa11321](./One_Star/49_UVa11321/UVa11321.md) |
