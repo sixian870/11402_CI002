@@ -8,20 +8,20 @@
 | 2 | Basic Problems | Hashmat the brave warrior | [UVa10055](./One_Star/02_UVa10055/UVa10055.md) |
 | 3 | Basic Problems | Primary Arithmetic | [UVa10035](./One_Star/03_UVa10035/UVa10035.md) |
 | 4 | Basic Problems | The 3n + 1 problem | [UVa100](./One_Star/04_UVa100/UVa100.md) |
-| 5 | Basic Problems | You can say 11 | [UVa10929](https://onlinejudge.org/external/109/10929.pdf) |
-| 6 | Basic Problems | Bangla Numbers | [UVa10101](https://onlinejudge.org/external/101/10101.pdf) |
-| 7 | Basic Problems | List of Conquests | [UVa10420](https://onlinejudge.org/external/104/10420.pdf) |
-| 8 | Characters and Strings | What's Cryptanalysis? | [UVa10008](https://onlinejudge.org/external/100/10008.pdf) |
-| 9 | Characters and Strings | Decode the Mad man | [UVa10222](https://onlinejudge.org/external/102/10222.pdf) |
-| 10 | Characters and Strings | Problem J: Summing Digits | [UVa11332](https://onlinejudge.org/external/113/11332.pdf) |
-| 11 | Characters and Strings | Common Permutation | [UVa10252](https://onlinejudge.org/external/102/10252.pdf) |
-| 12 | Characters and Strings | Rotating Sentences | [UVa490](https://onlinejudge.org/external/4/490.pdf) |
-| 13 | Characters and Strings | TeX Quotes | [UVa272](https://onlinejudge.org/external/2/272.pdf) |
-| 14 | Mathematical Computation | A - Doom's Day Algorithm | [UVa12019](https://onlinejudge.org/external/120/12019.pdf) |
-| 15 | Mathematical Computation | Jolly Jumpers | [UVa10038](https://onlinejudge.org/external/100/10038.pdf) |
-| 16 | Mathematical Computation | What is the Probability!! | [UVa10056](https://onlinejudge.org/external/100/10056.pdf) |
-| 17 | Mathematical Computation | The Hotel with Infinite Rooms | [UVa10170](https://onlinejudge.org/external/101/10170.pdf) |
-| 18 | Mathematical Computation | 498-bis | [UVa10268](https://onlinejudge.org/external/102/10268.pdf) |
+| 5 | Basic Problems | You can say 11 | [UVa10929](./One_Star/05_UVa10929/UVa10929.md) |
+| 6 | Basic Problems | Bangla Numbers | [UVa10101](./One_Star/06_UVa10101/UVa10101.md) |
+| 7 | Basic Problems | List of Conquests | [UVa10420](./One_Star/07_UVa10420/UVa10420.md) |
+| 8 | Characters and Strings | What's Cryptanalysis? | [UVa10008](./One_Star/08_UVa10008/UVa10008.md) |
+| 9 | Characters and Strings | Decode the Mad man | [UVa10222](./One_Star/09_UVa10222/UVa10222.md) |
+| 10 | Characters and Strings | Problem J: Summing Digits | [UVa11332](./One_Star/10_UVa11332/UVa11332.md) |
+| 11 | Characters and Strings | Common Permutation | [UVa10252](./One_Star/11_UVa10252/UVa10252.md) |
+| 12 | Characters and Strings | Rotating Sentences | [UVa490](./One_Star/12_UVa490/UVa490.md) |
+| 13 | Characters and Strings | TeX Quotes | [UVa272](./One_Star/13_UVa272/UVa272.md) |
+| 14 | Mathematical Computation | A - Doom's Day Algorithm | [UVa12019](./One_Star/14_UVa12019/UVa12019.md) |
+| 15 | Mathematical Computation | Jolly Jumpers | [UVa10038](./One_Star/15_UVa10038/UVa10038.md) |
+| 16 | Mathematical Computation | What is the Probability!! | [UVa10056](./One_Star/16_UVa10056/UVa10056.md) |
+| 17 | Mathematical Computation | The Hotel with Infinite Rooms | [UVa10170](./One_Star/17_UVa10170/UVa10170.md) |
+| 18 | Mathematical Computation | 498-bis | [UVa10268](./One_Star/18_UVa10268/UVa10268.md) |
 | 19 | Mathematical Computation | Odd Sum | [UVa10783](https://onlinejudge.org/external/107/10783.pdf) |
 | 20 | Mathematical Computation | Beat the Spread! | [UVa10812](https://onlinejudge.org/external/108/10812.pdf) |
 | 21 | Mathematical Computation | Symmetric Matrix | [UVa11349](https://onlinejudge.org/external/113/11349.pdf) |
