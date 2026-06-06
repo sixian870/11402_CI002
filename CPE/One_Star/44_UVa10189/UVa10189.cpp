@@ -7,45 +7,48 @@ if(.)->找八方,cout<<count
 (-1,-1) (0,-1) (1,-1)
 遇到地雷count++;
 */
-#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
 using namespace std;
-int main(){
-	int n,m;
-	int cases=1;
-	while(cin>>n>>m&&(n!=0||m!=0)){
-		if(cases>1){
-			cout<<endl;
+int main() {
+	int m, n;
+	int case_count = 1;
+	bool isFirst = true;
+	while (cin >> m >> n && (m != 0 && n != 0)) {
+		vector<vector<char>> g(m,vector<char> (n));
+		for (int i = 0; i < m; i++) {
+			for (int j = 0; j < n; j++) {
+				cin >> g[i][j];
+			}
 		}
-		vector<string> arr(n); //row
-		for(int i=0;i<n;i++){
-			cin>>arr[i]; //row 
+		if (!isFirst) {
+			cout << "\n";
 		}
-		cout<<"Field #"<<cases<<":"<<endl;
-		
-		int dx[]={-1,-1,-1,0,0,1,1,1};
-		int dy[]={-1,0,1,-1,1,-1,0,1};
-		for(int j=0;j<n;j++){
-			for(int k=0;k<m;k++){
-				if(arr[j][k]=='*'){
-					cout<<"*";
+		cout << "Field #" << case_count++ << ":\n";
+		isFirst = false;
+		for (int i = 0; i < m; i++) {
+			for (int j = 0; j < n; j++) {
+				if (g[i][j] == '*') {
+					cout << "*";
 				}
-				else{
-					int count=0;
-					for(int l=0;l<8;l++){
-						int x=j+dx[l]; //row
-						int y=k+dy[l]; //col
-						if(x>=0&&x<n&&y>=0&&y<m){
-							if(arr[x][y]=='*'){
-							count++;
+				else {
+					int count = 0;
+					for (int di = -1; di <= 1; di++) {
+						for (int dj = -1; dj <= 1; dj++) {
+							int ni = i + di;
+							int nj = j + dj;
+							if (ni >= 0 && ni < m && nj >= 0 && nj < n) {
+								if (g[ni][nj] == '*') {
+									count++;
+								}
 							}
-						}	
+						}
 					}
-					cout<<count;
+					cout << count;
 				}
 			}
-			cout<<endl;
+			cout << "\n";
 		}
-		cases++;
 	}
 	return 0;
 }
