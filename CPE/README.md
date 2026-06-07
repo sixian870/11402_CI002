@@ -45,7 +45,7 @@
 | 39 | Geometry and Coordinates | Fourth Point!! | [UVa10242](./One_Star/39_UVa10242/UVa10242.md) |
 | 40 | Sorting and Median | A mid-summer night’s dream | [UVa10057](./One_Star/40_UVa10057/UVa10057.md) |
 | 41 | Sorting and Median | Tell me the frequencies! | [UVa10062](./One_Star/41_UVa10062/UVa10062.md) |
-| 42 | Sorting and Median | Train Swapping | [UVa299](./One_Star/42_UVa229/UVa229.md) |
+| 42 | Sorting and Median | Train Swapping | [UVa299](./One_Star/42_UVa299/UVa299.md) |
 | 43 | Sorting and Median | Hardwood Species | [UVa10226](./One_Star/43_UVa10226/UVa10226.md) |
 | 44 | Simulation | Minesweeper | [UVa10189](./One_Star/44_UVa10189/UVa10189.md) |
 | 45 | Simulation | Die Game | [UVa10409](./One_Star/45_UVa10409/UVa10409.md) |
