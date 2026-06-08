@@ -97,7 +97,7 @@ while (ss >> word) {
 }
 ```
 
-#### 容器與宣告 ( `<array>, <vector>, <map>` )
+#### 容器與宣告 ( `<array>, <vector>, <stack>, <queue>, <map>, <set>` )
 ##### `<array>` 靜態陣列 :
 ```cpp
 #include <array>
@@ -136,6 +136,35 @@ if (!v1.empty()) { // 檢查是否為空，.empty() 適用於 vector, map, strin
 }
 ```
 
+##### `<stack>` : 後進先出
+```cpp
+#include <stack>
+
+stack<int> st;
+st.push(10);   // 將 10 推入 stack 頂端
+st.push(20);   // 將 20 推入 stack 頂端
+int top_val = st.top(); // 取得頂端的元素值（此時是 20，但不會刪除它）
+st.pop();      // 移出頂端的元素（移除 20，現在頂端變成 10）
+
+int sz = st.size();   // 取得 stack 目前的元素數量
+bool emp = st.empty(); // 檢查 stack 是否為空（回傳 true/false）
+```
+
+##### `<queue>` : 先進先出
+```cpp
+#include <queue>
+
+queue<int> q;
+q.push(10);   // 將 10 加到隊伍尾端
+q.push(20);   // 將 20 加到隊伍尾端
+int front_val = q.front(); // 取得隊伍最前端的元素（此時是 10）
+int back_val = q.back();   // 取得隊伍最尾端的元素（此時是 20）
+q.pop();      // 讓隊伍最前端的元素離開（移出 10）
+
+int sz = q.size();   // 取得 queue 目前的元素數量
+bool emp = q.empty(); // 檢查 queue 是否為空
+```
+
 ##### `<map>` : 會自動依據 Key 排序（由小到大），搜尋、插入皆為 $O(\log N)$。
 ```cpp
 #include <map>
@@ -144,7 +173,6 @@ if (!v1.empty()) { // 檢查是否為空，.empty() 適用於 vector, map, strin
 // 宣告一個 Key 為 string，Value 為 int 的 map
 map<string, int> mp;
 
-// 常用操作
 mp["apple"] = 10; // 插入或修改
 mp["banana"] = 5;
 
@@ -156,6 +184,43 @@ if (mp.find("apple") != mp.end()) {
 // 遍歷 map
 for (auto const& it : mp) {
     cout << it.first << " " << it.second << "\n";
+}
+```
+
+##### `<set>` : 自動排序且不重複
+```cpp
+#include <set>
+
+set<int> s;
+
+// 1. 插入元素
+s.insert(30);
+s.insert(10);
+s.insert(20);
+s.insert(10); // 重複插入 10，set 會自動忽略
+
+// 此時 set 內部的實際內容為：[10, 20, 30] (自動排好序且無重複)
+
+// 2. 尋找元素 (O(log N))
+// 與 map 一樣，找不到就會停在 s.end()
+if (s.find(20) != s.end()) {
+    // 代表 20 存在於集合中
+}
+
+// 3. 刪除元素
+s.erase(20); // 把 20 從集合中移除
+
+// 4. 計算某個元素出現次數 (因為不重複，結果只會是 0 或 1)
+if (s.count(10)) {
+    // 代表 10 存在
+}
+
+int sz = s.size();   // 取得集合內不重複元素的總數
+bool emp = s.empty(); // 檢查是否為空
+
+// 5. 遍歷 set (會從小到大印出)
+for (int x : s) {
+    cout << x << " "; 
 }
 ```
 
