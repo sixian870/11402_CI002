@@ -25,10 +25,10 @@
 ## Midterm
 | Regular Problems | Bonus Problems |
 | :--- | :--- |
-| 1. UVa 10931 - Parity<br> 2. UVa 12250 - Language Detection<br> 3.UVa 11332 - Summing Digits<br> 4. UVa 11461 - Square Numbers<br> | 1. UVa 11321 - Sort! Sort!! And Sort!!!<br> 2. UVa 10810 - Ultra-QuickSort<br> 3. UVa 10226 - Hardwood Species<br> |
+| 1. UVa 10931 - Parity<br> 2. UVa 12250 - Language Detection<br> 3. UVa 11332 - Summing Digits<br> 4. UVa 11461 - Square Numbers<br> | 1. UVa 11321 - Sort! Sort!! And Sort!!!<br> 2. UVa 10810 - Ultra-QuickSort<br> 3. UVa 10226 - Hardwood Species<br> |
 
 
 ## Final
 | Regular Problems | Bonus Problems |
 | :--- | :--- |
-| 1. UVa 11349 - Symmetric Matrix<br> 2. UVa 11034 - Ferry Loading IV<br> 3.UVa 10611 - The Playboy Chimp<br> 4. UVa 10282 - Babelfish<br> | 1. UVa 442 - Matrix Chain Multiplication<br> 2. UVa 12049 - Just Prune The List<br> 3. UVa 10821 - Constructing BST<br> 4. UVa 12250 - Language Detection<br> |
+| 1. UVa 11349 - Symmetric Matrix<br> 2. UVa 11034 - Ferry Loading IV<br> 3. UVa 10611 - The Playboy Chimp<br> 4. UVa 10282 - Babelfish<br> | 1. UVa 442 - Matrix Chain Multiplication<br> 2. UVa 12049 - Just Prune The List<br> 3. UVa 10821 - Constructing BST<br> 4. UVa 12250 - Language Detection<br> |
