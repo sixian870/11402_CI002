@@ -1,7 +1,7 @@
 # 課程學習紀錄
 
 | Week | Date | Theme | Before Class Easy | Before Class Medium | On-site Easy | On-site Medium | On-site Easy (Bonus) | On-site Medium (Bonus) | After Class Easy | After Class Medium |
-|------|------|-------|-------------------|---------------------|--------------|----------------|----------------------|------------------------|------------------|--------------------|
+|:----:|:----:|:-----:|-------------------|---------------------|--------------|----------------|----------------------|------------------------|------------------|--------------------|
 | 1 | 2026/02/24 | I/O, EOF, absolute difference |  |  | [UVa 100 – 3n+1](./On-Site_Examinations/Week01_01_UVa100/UVa100.md) | [UVa 10035 – Primary Arithmetic](./On-Site_Examinations/Week01_02_UVa10035/UVa10035.md) |  |  | [LeetCode 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [LeetCode 8. String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) |
 | 2 | 2026/03/03 | Strings, formatting |  |  | [UVa 272 – Tex Quotes](./On-Site_Examinations/Week02_03_UVa272/UVa272.md) | [UVa 490 – Rotating Sentences](./On-Site_Examinations/Week02_04_UVa490/UVa490.md) |  |  | [LeetCode 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [LeetCode 6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) |
 | 3 | 2026/03/10 | Math + corner cases | [LeetCode 231. Power of Two](https://leetcode.com/problems/power-of-two/description/) |  | [UVa 10783 - Odd Sum](./On-Site_Examinations/Week03_05_UVa10783/UVa10783.md) | [UVa 10170 - The Hotel with Infinite Rooms](./On-Site_Examinations/Week03_06_UVa10170/UVa10170.md) | [UVa 12149 - Feynman](./On-Site_Examinations/Week03_07_UVa12149/UVa12149.md) |  | [LeetCode 326: Power of Three](https://leetcode.com/problems/power-of-three/description/) | [LeetCode 670: Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) |
@@ -25,10 +25,10 @@
 ## Midterm
 | Regular Problems | Bonus Problems |
 | :--- | :--- |
-| 1. UVa 10931 - Parity<br> 2. UVa 12250 - Language Detection<br> 3. UVa 11332 - Summing Digits<br> 4. UVa 11461 - Square Numbers<br> | 1. UVa 11321 - Sort! Sort!! And Sort!!!<br> 2. UVa 10810 - Ultra-QuickSort<br> 3. UVa 10226 - Hardwood Species<br> |
+|  1. [UVa 10931 - Parity](./Midterm_Exam/Week08_01_UVa10931/UVa10931.md)<br>  2. [UVa 12250 - Language Detection](./Midterm_Exam/Week08_02_UVa12250/UVa12250.md)<br>  3. [UVa 11332 - Summing Digits](./Midterm_Exam/Week08_03_UVa11332/UVa11332.md)<br>  4. [UVa 11461 - Square Numbers](./Midterm_Exam/Week08_04_UVa11461/UVa11461.md)<br> |  1. [UVa 11321 - Sort! Sort!! And Sort!!!](./Midterm_Exam/Week08_05_UVa11321/UVa11321.md)<br>  2. [UVa 10810 - Ultra-QuickSort](./Midterm_Exam/Week08_06_UVa10810/UVa10810.md)<br>  3. [UVa 10226 - Hardwood Species](./Midterm_Exam/Week08_07_UVa10226/UVa10226.md) |
 
 
 ## Final
 | Regular Problems | Bonus Problems |
 | :--- | :--- |
-| 1. UVa 11349 - Symmetric Matrix<br> 2. UVa 11034 - Ferry Loading IV<br> 3. UVa 10611 - The Playboy Chimp<br> 4. UVa 10282 - Babelfish<br> | 1. UVa 442 - Matrix Chain Multiplication<br> 2. UVa 12049 - Just Prune The List<br> 3. UVa 10821 - Constructing BST<br> 4. UVa 12250 - Language Detection<br> |
+| 1. [UVa 11349 - Symmetric Matrix](./Final_Exam/Week16_01_UVa11349/UVa11349.md)<br> 2. [UVa 11034 - Ferry Loading IV](./Final_Exam/Week16_02_UVa11034/UVa11034.md)<br> 3. [UVa 10611 - The Playboy Chimp](./Final_Exam/Week16_03_UVa10611/UVa10611.md)<br> 4. [UVa 10282 - Babelfish](./Final_Exam/Week16_04_UVa10282/UVa10282.md)<br> | 1. [UVa 442 - Matrix Chain Multiplication](./Final_Exam/Week16_05_UVa442/UVa442.md)<br> 2. [UVa 12049 - Just Prune The List](./Final_Exam/Week16_06_UVa12049/UVa12049.md)<br> 3. [UVa 10821 - Constructing BST](./Final_Exam/Week16_07_UVa10821/UVa10821.md)<br> 4. [UVa 12250 - Language Detection](./Final_Exam/Week16_08_UVa12250/UVa12250.md)<br> |
