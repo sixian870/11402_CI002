@@ -11,6 +11,7 @@
 * **Example 1 :**
   * **Input :** `n = 1`
   * **Output :** `true` ($\rightarrow 2^0 = 1$)
+
 * **Example 2 :**
   * **Input :** `n = 16`
   * **Output :** `true` ($\rightarrow 2^4 = 16$)
