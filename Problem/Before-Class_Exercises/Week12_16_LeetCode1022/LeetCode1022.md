@@ -12,6 +12,10 @@
 **Sample Input & Output**：
 
 * **Example 1 :**
+
+  <img width="280" height="159" alt="螢幕擷取畫面 2026-06-28 022826" src="https://github.com/user-attachments/assets/266afe43-beec-4cd0-996c-39a3fd5d0a3d" />
+  <br><br>
+
   * **Input :** `root = [1,0,1,0,1,0,1]`
   * **Output :** `22`
   * **解釋 :**
