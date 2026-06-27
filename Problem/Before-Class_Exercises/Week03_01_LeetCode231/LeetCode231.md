@@ -8,15 +8,15 @@
 
 **Sample Input & Output**：
 
-* **Example 1**:
-  * Input: `n = 1`
-  * Output: `true` ($\rightarrow 2^0 = 1$)
-* **Example 2**:
-  * Input: `n = 16`
-  * Output: `true` ($\rightarrow 2^4 = 16$)
-* **Example 3**:
-  * Input: `n = 3`
-  * Output: `false`
+* **Example 1 :**
+  * **Input :** `n = 1`
+  * **Output :** `true` ($\rightarrow 2^0 = 1$)
+* **Example 2 :**
+  * **Input :** `n = 16`
+  * **Output :** `true` ($\rightarrow 2^4 = 16$)
+* **Example 3 :**
+  * **Input :** `n = 3`
+  * **Output :** `false`
 
 
 ## 程式碼
@@ -42,4 +42,4 @@ public:
 
 ## 參考資料
 
-**題目連結與測試網站**：[LeetCode 231 - Power of Two](https://leetcode.com/problems/power-of-two/)
+**題目連結 & 測試網站**：[LeetCode 231 - Power of Two](https://leetcode.com/problems/power-of-two/)
