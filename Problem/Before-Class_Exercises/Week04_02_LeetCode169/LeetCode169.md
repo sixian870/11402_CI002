@@ -13,6 +13,7 @@
 * **Example 1 :**
   * **Input :** `nums = [3,2,3]`
   * **Output :** `3` ($\rightarrow 3$ 出現了 2 次，大於 $3/2 = 1.5$)
+
 * **Example 2 :**
   * **Input :** `nums = [2,2,1,1,1,2,2]`
   * **Output :** `2` ($\rightarrow 2$ 出現了 4 次，大於 $7/2 = 3.5$)
