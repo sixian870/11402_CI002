@@ -9,21 +9,21 @@
 
 **Sample Input & Output**：
 
-* **Example 1**:
+* **Example 1 :**
 
   <img width="278" height="110" alt="螢幕擷取畫面 2026-06-27 202752" src="https://github.com/user-attachments/assets/5cc7c3ba-b138-4e4f-b605-0a31f81833dd" />
   <br><br>
   
-  * Input: `matrix = [[1,2,3],[4,5,6],[7,8,9]]`
-  * Output: `[[7,4,1],[8,5,2],[9,6,3]]`
+  * **Input :** `matrix = [[1,2,3],[4,5,6],[7,8,9]]`
+  * **Output :** `[[7,4,1],[8,5,2],[9,6,3]]`
 
-* **Example 2**:
+* **Example 2 :**
 
   <img width="278" height="116" alt="螢幕擷取畫面 2026-06-27 202810" src="https://github.com/user-attachments/assets/c660ad66-ec75-4b2c-bab1-17a2172bff46" />
   <br><br>
   
-  * Input: `matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]`
-  * Output: `[[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]`
+  * **Input :** `matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]`
+  * **Output :** `[[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]`
 
 
 ## 程式碼
@@ -61,4 +61,4 @@ public:
 
 ## 參考資料
 
-**題目連結與測試網站**：[LeetCode 48 - Rotate Image](https://leetcode.com/problems/rotate-image/)
+**題目連結 & 測試網站**：[LeetCode 48 - Rotate Image](https://leetcode.com/problems/rotate-image/)
