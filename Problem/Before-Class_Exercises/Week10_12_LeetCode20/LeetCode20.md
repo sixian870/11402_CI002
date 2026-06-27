@@ -81,4 +81,4 @@ public:
 
 **題目連結 & 測試網站**：[LeetCode 20 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
-**相似題目**：[UVa 673 - Parentheses Balance](./On-Site_Examinations/Week10_28_UVa673/UVa673.md)
+**相似題目**：[UVa 673 - Parentheses Balance](./Problem/On-Site_Examinations/Week10_28_UVa673/UVa673.md)
