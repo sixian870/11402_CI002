@@ -65,4 +65,4 @@ public:
 
 ## 參考資料
 
-**題目連結與測試網站**：[LeetCode 88 - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+**題目連結 & 測試網站**：[LeetCode 88 - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
