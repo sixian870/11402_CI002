@@ -61,4 +61,4 @@ public:
 
 ## 參考資料
 
-**題目連結與測試網站**：[LeetCode 169 - Majority Element](https://leetcode.com/problems/majority-element/)
+**題目連結與測試網站**：[LeetCode 48 - Rotate Image](https://leetcode.com/problems/rotate-image/)
