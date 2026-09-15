@@ -248,10 +248,11 @@ cout << left << setw(5) << 42 << "!\n"; // 輸出: "42   !"
 #### 數學與演算法 ( `<cmath>, <algorithm>, <numeric>` )
 ##### `<cmath>` : 
 * `pow(base, exp)` : 計算 $base^{exp}$，回傳值為浮點數（double）。
-* `sqrt(x)`: 計算 $\sqrt{x}$。
+* `sqrt(x)` : 計算 $\sqrt{x}$。
 * `floor(x)` : 無條件捨去（無條件下高斯符號 $\lfloor x \rfloor$）。
+* `ceil(x)` : 無條件進位。
 * `abs(x)` : 計算絕對值。
-* `PI($\pi$)` 的宣告方式 :
+* `PI` 的宣告方式 :
 ```cpp
 const double PI = acos(-1.0);
 ```
