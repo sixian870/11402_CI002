@@ -296,14 +296,14 @@ long long gcd(long long a, long long b) {
 
 #### 質數判斷
 ```cpp
-bool isPrime(long long n) {
-    if (n <= 1) return false;
-    if (n == 2) return true;
-    if (n % 2 == 0) return false;
-    for (long long i = 3; i * i <= n; i += 2) {
-        if (n % i == 0) return false;
-    }
-    return true;
+ool isPrime(int n) {
+	if (n <= 1) return false;
+	for (int i = 2; i < n; i++) {
+		if (n % i == 0) {
+			return false;
+		}
+	}
+	return true;
 }
 ```
 
