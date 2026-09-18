@@ -130,7 +130,7 @@ vector<int> v3(5, -1);
 vector<int> v4 = {1, 2, 3, 4, 5};
 
 // 5. nxn 動態陣列
-vector<vector<int>> v5(n, vector<int>(n));
+vector<vector<int>> v5(row, vector<int>(col));
 
 // 常用操作
 v1.push_back(10); // 在尾端加入元素 10
